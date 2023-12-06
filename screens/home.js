@@ -11,7 +11,7 @@ export default function Home({navigation}) {
     const [reviewDetails, setReviewDetails] = useState([
         {title:'Zelda, Breath of Fresh Air', rating:5,body:'lorem ipsum',key:'1'},
         {title:'Gotta Catch them all', rating:2,body:'lorem ipsum',key:'2'},
-        {title:'Final Fantasy', rating:3,body:'lorem ipsum',key:'3'},
+        {title:'Final Fantasyt', rating:3,body:'lorem ipsum',key:'3'},
     ])
 
     const addReview = (review) =>{
