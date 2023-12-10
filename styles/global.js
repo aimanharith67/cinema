@@ -4,13 +4,13 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export const globalStyles = StyleSheet.create({
     container: {
-    flex: 1,
+     flex: 1,
      padding:20,
-     backgroundColor:'#fff'
+     backgroundColor:'#333'
     },
     titleText:{
         fontSize:18,
-        color:'#333'
+        color:'#fff'
     },
     paragraph:{
         marginVertical:8,
